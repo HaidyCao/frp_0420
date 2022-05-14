@@ -35,6 +35,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/HaidyCao/go-proxyproto v0.6.2 h1:d3a0C+cQ8IVXC4nqrswi/2tZkBZGUvhtLmqGoWOpXeI=
 github.com/HaidyCao/go-proxyproto v0.6.2/go.mod h1:NSqq0nPANJ18i6A4P/3wCuXSIcpqKqjcKpeTTY/wQHk=
+github.com/HaidyCao/golib v1.0.0 h1:FLsDWATZLdCTr3z6K9GnMbOdc4oLYFNJvU4ebPp5Tu0=
+github.com/HaidyCao/golib v1.0.0/go.mod h1:MCbtBazGwzJ4+NdPnYWOS08jxnWfJr04K25aLlSQdXo=
 github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/PuerkitoBio/purell v1.1.1/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbtSwDGJws/X0=
@@ -90,8 +92,6 @@ github.com/envoyproxy/protoc-gen-validate v0.1.0/go.mod h1:iSmxcyjqTsJpI2R4NaDN7
 github.com/evanphx/json-patch v4.9.0+incompatible/go.mod h1:50XU6AFN0ol/bzJsmQLiYLvXMP4fmwYFNcr97nuDLSk=
 github.com/fatedier/beego v0.0.0-20171024143340-6c6a4f5bd5eb h1:wCrNShQidLmvVWn/0PikGmpdP0vtQmnvyRg3ZBEhczw=
 github.com/fatedier/beego v0.0.0-20171024143340-6c6a4f5bd5eb/go.mod h1:wx3gB6dbIfBRcucp94PI9Bt3I0F2c/MyNEWuhzpWiwk=
-github.com/fatedier/golib v0.1.1-0.20220321042308-c306138b83ac h1:td1FJwN/oz8+9GldeEm3YdBX0Husc0FSPywLesZxi4w=
-github.com/fatedier/golib v0.1.1-0.20220321042308-c306138b83ac/go.mod h1:fLV0TLwHqrnB/L3jbNl67Gn6PCLggDGHniX1wLrA2Qo=
 github.com/fatedier/kcp-go v2.0.4-0.20190803094908-fe8645b0a904+incompatible h1:ssXat9YXFvigNge/IkkZvFMn8yeYKFX+uI6wn2mLJ74=
 github.com/fatedier/kcp-go v2.0.4-0.20190803094908-fe8645b0a904+incompatible/go.mod h1:YpCOaxj7vvMThhIQ9AfTOPW2sfztQR5WDfs7AflSy4s=
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=

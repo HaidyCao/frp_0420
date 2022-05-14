@@ -33,7 +33,7 @@ import (
 	"github.com/HaidyCao/frp_0420/pkg/config"
 	"github.com/HaidyCao/frp_0420/pkg/util/log"
 	"github.com/HaidyCao/frp_0420/pkg/util/version"
-	"github.com/fatedier/golib/crypto"
+	"github.com/HaidyCao/golib/crypto"
 
 	"github.com/spf13/cobra"
 )

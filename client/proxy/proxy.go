@@ -34,10 +34,10 @@ import (
 	"github.com/HaidyCao/frp_0420/pkg/util/xlog"
 
 	pp "github.com/HaidyCao/go-proxyproto"
-	"github.com/fatedier/golib/errors"
-	frpIo "github.com/fatedier/golib/io"
-	libdial "github.com/fatedier/golib/net/dial"
-	"github.com/fatedier/golib/pool"
+	"github.com/HaidyCao/golib/errors"
+	frpIo "github.com/HaidyCao/golib/io"
+	libdial "github.com/HaidyCao/golib/net/dial"
+	"github.com/HaidyCao/golib/pool"
 	fmux "github.com/hashicorp/yamux"
 	"golang.org/x/time/rate"
 )

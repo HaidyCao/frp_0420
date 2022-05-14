@@ -4,10 +4,10 @@ go 1.16
 
 require (
 	github.com/HaidyCao/go-proxyproto v0.6.2
+	github.com/HaidyCao/golib v1.0.0
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/fatedier/beego v0.0.0-20171024143340-6c6a4f5bd5eb
-	github.com/fatedier/golib v0.1.1-0.20220321042308-c306138b83ac
 	github.com/fatedier/kcp-go v2.0.4-0.20190803094908-fe8645b0a904+incompatible
 	github.com/go-playground/validator/v10 v10.6.1
 	github.com/google/uuid v1.2.0

@@ -31,7 +31,7 @@ import (
 	"github.com/HaidyCao/frp_0420/server/controller"
 	"github.com/HaidyCao/frp_0420/server/metrics"
 
-	frpIo "github.com/fatedier/golib/io"
+	frpIo "github.com/HaidyCao/golib/io"
 )
 
 type GetWorkConnFn func() (net.Conn, error)

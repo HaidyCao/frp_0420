@@ -31,9 +31,9 @@ import (
 	"github.com/HaidyCao/frp_0420/pkg/util/util"
 	"github.com/HaidyCao/frp_0420/pkg/util/xlog"
 
-	"github.com/fatedier/golib/errors"
-	frpIo "github.com/fatedier/golib/io"
-	"github.com/fatedier/golib/pool"
+	"github.com/HaidyCao/golib/errors"
+	frpIo "github.com/HaidyCao/golib/io"
+	"github.com/HaidyCao/golib/pool"
 	fmux "github.com/hashicorp/yamux"
 )
 

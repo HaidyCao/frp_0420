@@ -29,7 +29,7 @@ import (
 	frpLog "github.com/HaidyCao/frp_0420/pkg/util/log"
 	"github.com/HaidyCao/frp_0420/pkg/util/util"
 
-	"github.com/fatedier/golib/pool"
+	"github.com/HaidyCao/golib/pool"
 )
 
 var (

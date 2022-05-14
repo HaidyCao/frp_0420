@@ -38,8 +38,8 @@ import (
 	"github.com/HaidyCao/frp_0420/pkg/util/util"
 	"github.com/HaidyCao/frp_0420/pkg/util/version"
 	"github.com/HaidyCao/frp_0420/pkg/util/xlog"
-	"github.com/fatedier/golib/crypto"
-	libdial "github.com/fatedier/golib/net/dial"
+	"github.com/HaidyCao/golib/crypto"
+	libdial "github.com/HaidyCao/golib/net/dial"
 
 	fmux "github.com/hashicorp/yamux"
 )

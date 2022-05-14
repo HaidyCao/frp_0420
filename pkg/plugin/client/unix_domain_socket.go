@@ -19,7 +19,7 @@ import (
 	"io"
 	"net"
 
-	frpIo "github.com/fatedier/golib/io"
+	frpIo "github.com/HaidyCao/golib/io"
 )
 
 const PluginUnixDomainSocket = "unix_domain_socket"

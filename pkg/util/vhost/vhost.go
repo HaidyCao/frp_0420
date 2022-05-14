@@ -23,7 +23,7 @@ import (
 	frpNet "github.com/HaidyCao/frp_0420/pkg/util/net"
 	"github.com/HaidyCao/frp_0420/pkg/util/xlog"
 
-	"github.com/fatedier/golib/errors"
+	"github.com/HaidyCao/golib/errors"
 )
 
 type RouteInfo string

@@ -33,9 +33,9 @@ import (
 	frpNet "github.com/HaidyCao/frp_0420/pkg/util/net"
 	"github.com/HaidyCao/frp_0420/pkg/util/xlog"
 
-	"github.com/fatedier/golib/control/shutdown"
-	"github.com/fatedier/golib/crypto"
-	libdial "github.com/fatedier/golib/net/dial"
+	"github.com/HaidyCao/golib/control/shutdown"
+	"github.com/HaidyCao/golib/crypto"
+	libdial "github.com/HaidyCao/golib/net/dial"
 	fmux "github.com/hashicorp/yamux"
 )
 

@@ -14,7 +14,7 @@ import (
 	"github.com/HaidyCao/frp_0420/pkg/msg"
 	"github.com/HaidyCao/frp_0420/pkg/util/xlog"
 
-	"github.com/fatedier/golib/errors"
+	"github.com/HaidyCao/golib/errors"
 )
 
 const (

@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/HaidyCao/frp_0420/test/e2e/pkg/rpc"
-	libdial "github.com/fatedier/golib/net/dial"
+	libdial "github.com/HaidyCao/golib/net/dial"
 )
 
 type Request struct {

@@ -5,7 +5,7 @@ import (
 	"net"
 	"net/url"
 
-	libdial "github.com/fatedier/golib/net/dial"
+	libdial "github.com/HaidyCao/golib/net/dial"
 	"golang.org/x/net/websocket"
 )
 

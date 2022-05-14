@@ -48,7 +48,7 @@ import (
 	"github.com/HaidyCao/frp_0420/server/proxy"
 	"github.com/HaidyCao/frp_0420/server/visitor"
 
-	"github.com/fatedier/golib/net/mux"
+	"github.com/HaidyCao/golib/net/mux"
 	fmux "github.com/hashicorp/yamux"
 )
 

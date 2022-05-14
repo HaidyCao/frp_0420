@@ -20,7 +20,7 @@ import (
 	"github.com/HaidyCao/frp_0420/pkg/config"
 	"github.com/HaidyCao/frp_0420/pkg/msg"
 
-	"github.com/fatedier/golib/errors"
+	"github.com/HaidyCao/golib/errors"
 )
 
 type XTCPProxy struct {

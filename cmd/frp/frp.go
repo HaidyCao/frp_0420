@@ -18,7 +18,7 @@ import (
 	"github.com/HaidyCao/frp_0420/cmd/frpc/sub"
 	"github.com/HaidyCao/frp_0420/cmd/frps/frps"
 	"github.com/HaidyCao/frp_0420/pkg/util/version"
-	"github.com/fatedier/golib/crypto"
+	"github.com/HaidyCao/golib/crypto"
 	"runtime/debug"
 )
 
